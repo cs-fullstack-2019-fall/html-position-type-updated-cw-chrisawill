@@ -1,0 +1,57 @@
+.pink
+{
+    color: blue;
+}
+#cent
+{
+    text-align: center;
+    border: darkblue solid 2px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.blu
+{
+    background-color: cadetblue;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+footer
+{
+    text-align: left;
+}
+
+#start
+{
+    text-align: center;
+}
+
+#yello
+{
+    text-align: center;
+    background-color: gold;
+
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+aside
+{
+    position: relative ;
+    float: right;
+    width: 40%;
+    top: -230px;
+}
+
+section
+{
+
+    text-align:;
+    width: 50%;
+}
